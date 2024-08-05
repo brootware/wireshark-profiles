@@ -55,7 +55,7 @@ gui.seconds_format: SECONDS
 
 # Zoom level.
 # A decimal number.
-gui.zoom_level: 5
+gui.zoom_level: 0
 
 # Bytes view display type.
 # One of: HEX, BITS
